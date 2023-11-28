@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aushawk7
 - 👀 I’m interested in programming/cyber security.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and studying cyber security cert IV.
 
 <!---
 Aushawk7/Aushawk7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
